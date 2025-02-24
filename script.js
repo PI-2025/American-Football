@@ -16,7 +16,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: There are ___ in a football team.",
+        q: "Fill in the blank: There are ___ Players on a regulated football team.",
         a: [{text: "53", isCorrect: true},
             {text: "67", isCorrect: false},
             {text: "45", isCorrect: false},
