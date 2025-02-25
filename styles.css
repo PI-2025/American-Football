@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-    color: midnightblue;
+    color: rgb(1, 51, 105);
     font-family: sans-serif;
 }
 
@@ -49,7 +49,7 @@ img {
 
 .logo {
     box-shadow: none;
-    border-color:midnightblue;
+    border-color:rgb(1, 51, 105);
 }
 
 section {
