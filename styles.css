@@ -19,12 +19,12 @@ body {
     left: 0;
     width: 100%;
     z-index: 9999;    
-    background-color: darkblue;
+    background-color: midnightblue;
     box-shadow: 2px 2px 2px gray;
 }
 
 h1 {
-    color: maroon;
+    color: darkred;
     font: bold 50px sans-serif;
 }
 
@@ -49,7 +49,7 @@ img {
 
 .logo {
     box-shadow: none;
-    border-color: darkblue;
+    border-color:midnightblue;
 }
 
 section {
