@@ -19,7 +19,7 @@ body {
     left: 0;
     width: 100%;
     z-index: 9999;    
-    background-color: rgb(116, 116, 116);
+    background-color: rgb(138, 139, 143);
     box-shadow: 2px 2px 2px gray;
 }
 
@@ -49,8 +49,8 @@ img {
 
 .logo {
     box-shadow: none;
-    border-color:rgb(0, 0, 0);
-}
+    border-color:rgb(220,220, 220,0.9);
+} 
 
 section {
     margin-top: 80px;
