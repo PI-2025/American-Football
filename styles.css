@@ -19,7 +19,7 @@ body {
     left: 0;
     width: 100%;
     z-index: 9999;    
-    background-color: midnightblue;
+    background-color: rgb(116, 116, 116);
     box-shadow: 2px 2px 2px gray;
 }
 
@@ -49,7 +49,7 @@ img {
 
 .logo {
     box-shadow: none;
-    border-color:rgb(1, 51, 105);
+    border-color:rgb(0, 0, 0);
 }
 
 section {
